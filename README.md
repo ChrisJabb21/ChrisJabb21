@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-I am a Java Full Stack Web Developer from Pittsburgh PA, USA. My educational background is cybersecurity who found my way into web development for my love to create and I always love to learn.
+I am a Java Full Stack Web Developer from Pittsburgh PA, USA. My educational background is cybersecurity and I found my way into web development and I always love to learn.
 
 - 🌱 I’m currently learning: Java, as well JavaScript, and React Concepts. 
 
