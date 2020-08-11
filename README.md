@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Web: [http://chrisjabb21.github.io]
 
 ## 📬 Get in touch
 - Twitter: [][3]
-- Blog: [dev.to/myusername][4]
+- Blog: [https://dev.to/chrisjabb21][4]
 - Web: [http://chrisjabb21.github.io]
-- LinkedIn: [linkedin.com/in/myprofile][2]
+- LinkedIn: [https://www.linkedin.com/in/christopher-jabbour-01a43364/]
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisJabb21)](https://github.com/chrisjabb21/github-readme-stats)
 <a href="https://github.com/ChrisJabb21/ChrisJabb21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -29,3 +30,6 @@ I am a Java Full Stack Web Developer from Pittsburgh PA, USA. My educational bac
 
 - 🌱 I’m currently learning: Advanced JavaScript, and React Concepts. 
 
+## 📬 Reach out to me at..
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/christopher-jabbour-01a43364/)
+- DEV: [Dev](https://dev.to/chrisjabb21)
