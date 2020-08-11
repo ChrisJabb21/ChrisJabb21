@@ -27,6 +27,6 @@ I am a Web Developer from Pittsburgh PA, USA. My educational background is cyber
 - 🌱 I’m currently learning: Java, as well JavaScript, and React Concepts. 
 
 <a href="https://github.com/ChrisJabb21/ChrisJabb21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
