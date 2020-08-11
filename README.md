@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisJabb21)](https://github.com/chrisjabb21/github-readme-stats)
 -->
 
-I am a Web Developer from Pittsburgh PA, USA. My educational background is cybersecurity and I always love to learn.
+I am a Java Full Stack Web Developer from Pittsburgh PA, USA. My educational background is cybersecurity who found my way into web development for my love to create and I always love to learn.
 
 - 🌱 I’m currently learning: Java, as well JavaScript, and React Concepts. 
 
 <a href="https://github.com/ChrisJabb21/ChrisJabb21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css,C#&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
