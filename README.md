@@ -35,3 +35,4 @@ I am a Java Full Stack Web Developer from Pittsburgh PA, USA. My educational bac
 ## 📬 Reach out to me at..
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/christopher-jabbour-01a43364/)
 - DEV: [Dev](https://dev.to/chrisjabb21)
+- Blogs: [Personal blog and portfolio website](http://chrisjabb21.github.io)
