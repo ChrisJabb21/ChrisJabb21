@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is..
-![Name and Motto](ChrisJabb21/blob/master/banner(2).png)
+![](banner(2).png)
 <!--
 **ChrisJabb21/ChrisJabb21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
