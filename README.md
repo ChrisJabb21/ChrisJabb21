@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is..
-![]('banner(2).png')
+![Chris Jabbour](banner(2).png)
 <!--
 **ChrisJabb21/ChrisJabb21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
