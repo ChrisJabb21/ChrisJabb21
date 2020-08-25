@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is..
-![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/banner(1).png)
+![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 <!--
 **ChrisJabb21/ChrisJabb21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
