@@ -39,7 +39,7 @@ I am a Java Full Stack Web Developer from Pittsburgh PA, that found my way into 
 
 
 ## Showcases 
-Codepen.io: [Codepen](https://codepen.io/ChrisJabb21/pens/showcase)
+- Codepen.io: [Codepen](https://codepen.io/ChrisJabb21/pens/showcase)
 
 <a href="https://github.com/ChrisJabb21/ChrisJabb21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
