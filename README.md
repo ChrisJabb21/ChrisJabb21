@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Java Full Stack Web Developer from Pittsburgh PA, that found my way into web development during college. My educational background is my Masters of Science in Cybersecurity with a bachelors in Liberal Arts (concentration: Bioinformatics with a minor in Computer Science).
+I am a Java Full Stack Web Developer from Pittsburgh PA, that found my way into web development during college. My educational background is my Masters of Science in Cybersecurity with a bachelors in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science.
 
 
 
