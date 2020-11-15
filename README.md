@@ -34,12 +34,12 @@ I am a Java Full Stack Web Developer from Pittsburgh PA, that found my way into 
 
 
 ## 📬 Reach out to me at..
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/christopher-jabbour-01a43364/)
-- DEV: [Dev](https://dev.to/chrisjabb21)
+- LinkedIn: [Click here](https://www.linkedin.com/in/christopher-jabbour-01a43364/)
+- DEV: [Click here](https://dev.to/chrisjabb21)
 
 
 ## Showcases 
-- Codepen.io: [Codepen](https://codepen.io/ChrisJabb21/pens/showcase)
-- Resume|Portfolio [Click Here](https://chrisjabb21.github.io/react-portfolio-api/) 
+- Codepen.io: [Click here](https://codepen.io/ChrisJabb21/pens/showcase)
+- Resume|Portfolio: [Click here](https://chrisjabb21.github.io/react-portfolio-api/) 
 <a href="https://github.com/ChrisJabb21/ChrisJabb21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
