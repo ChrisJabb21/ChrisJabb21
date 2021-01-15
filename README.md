@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my professional blog 
+- 🔭 I’m currently working on ... my professional blog, portfolio 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... making a study schedule and interview practice
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
@@ -24,19 +24,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/ChrisJabb21/ChrisJabb21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-- 🌱 I’m currently learning: Advanced JavaScript, and React Concepts. 
-- 👯 I’m looking to collaborate on open source education and health related software and productivity tools.
-
+- 🌱 I’m currently learning: Advanced JavaScript, and React Concepts, DevOps, Angular. 
+- 👯 I’m looking to collaborate on open source education and health related software and productivity tools. As well as a mentor.
+- DEV: [Click here](https://dev.to/chrisjabb21)
 -->
 
-I am a Java Full Stack Web Developer from Pittsburgh PA, that found my way into web development during college. My educational background is a Masters of Science in Cybersecurity with a bachelors in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science.
-
+I am a Java Full Stack Web Developer from Pittsburgh PA, that found my way into web development during college. I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science at Saint Vincent College.  
 
 
 ## 📬 Reach out to me at..
 - LinkedIn: [Click here](https://www.linkedin.com/in/christopher-jabbour-01a43364/)
-- DEV: [Click here](https://dev.to/chrisjabb21)
-
 
 ## Showcases 
 - Codepen.io: [Click here](https://codepen.io/ChrisJabb21/pens/showcase)
