@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - DEV: [Click here](https://dev.to/chrisjabb21)
 -->
 
-I am a Java Full Stack Web Developer from Pittsburgh PA, that found my way into web development during college. I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
+I am a Java Full Stack Web Developer from Pittsburgh PA who found my way into web development during college. I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
 
 ## 📬 Reach out to me at..
