@@ -29,18 +29,23 @@ Here are some ideas to get you started:
 - DEV: [Click here](https://dev.to/chrisjabb21)
 -->
 
-I am a aspiring Cybersecurity professional with previous experience as a Full Stack Web Developer from Pittsburgh PA who found my way into web development after college and who is looking to transition and work my way into a entry level role in cybersecurity. I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
+## About Me
+I am a aspiringm Cybersecurity professional with previous background as a Full Stack Web Developer from Pittsburgh, Pennsylvania looking to transition and work my way into a entry level role in cybersecurity. 
+
+I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
 
 ## 📬 Reach out to me at..
-- LinkedIn: [Click here](https://www.linkedin.com/in/christopher-jabbour-01a43364/)
+- <a href="https://www.linkedin.com/in/christopher-jabbour-01a43364/">LinkedIn</a>
 
 ## Showcases 
-- Codepen.io: [Click here](https://codepen.io/ChrisJabb21/pens/showcase)
-- Resume|Portfolio: [Click here](https://chrisjabb21.github.io/react-portfolio-api/) 
-<a href="https://github.com/ChrisJabb21/ChrisJabb21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+- <a href="https://medium.com/@cyberjab">Medium Blog Account </a>
+- <a href="https://tryhackme.com/p/ChrisJabb21">TryHackMe profile</a> for cybersecurity training and hands-on learning 
+- <a href="https://codepen.io/ChrisJabb21/pens/showcase">Codepen.io</a>
+- <a href="https://chrisjabb21.github.io/react-portfolio-api/"> Previous Web Development Portfolio</a>
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  
 
 <h3 align="left">Languages:</h3>
 <p align="left">  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="85" height="85"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="85" height="85"/> </a> 
@@ -52,12 +57,3 @@ I am a aspiring Cybersecurity professional with previous experience as a Full St
    <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> --> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
-
-------
-  
-## Miscellaneous links
-  
-- TryHackMe profile for cybersecurity training: [Click here](https://tryhackme.com/p/ChrisJabb21)
-<a href="https://tryhackme.com/p/ChrisJabb21">  
-<img src="https://tryhackme-badges.s3.amazonaws.com/ChrisJabb21.png" alt="TryHackMe">
-<a/>
