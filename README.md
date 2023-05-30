@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am an aspiring Cybersecurity professional with previous background as a Full Stack Web Developer from Pittsburgh, PA who is looking to transition and work my way into a entry level role in cybersecurity. 
+I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to transition and work my way into a entry level role in cybersecurity and IT. 
 
 I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
