@@ -41,6 +41,7 @@ I graduated with a Masters of Science in Cybersecurity from Robert Morris Univer
 ## Showcases 
 - <a href="https://medium.com/@cyberjab">Medium Blog Account </a>
 - <a href="https://tryhackme.com/p/ChrisJabb21">TryHackMe profile</a> for cybersecurity training and hands-on learning 
+- <a href="https://play.picoctf.org/users/ChrisJabb21">PicoCTF account</a> for cybersecurity challenges and training.
 - <a href="https://codepen.io/ChrisJabb21/pens/showcase">Codepen.io</a>
 - <a href="https://chrisjabb21.github.io/react-portfolio-api/"> Previous Web Development Portfolio</a>
 
