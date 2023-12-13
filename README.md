@@ -2,9 +2,9 @@
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
 - 🔭 I’m currently working on
-  - Networking with other cybersecurity professionals
+  - Networking with other cybersecurity professionals when I can
   - Obtaining my Security Plus certification,
-  - Finding my niche in the Cybersecurity field through self learning and hands-on exploration.
+  - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises 
 - 🌱📚 I’m currently learning about...
   - Malware analysis
@@ -22,7 +22,7 @@
 
 
 ## About Me
-I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to transition and work my way into a role more focused in the cybersecurity and IT Support domain. 
+I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to loves to learn and teach as I grow from experience to transition and work my way into a role more focused in the cybersecurity and IT Support domain in the future. 
 
 I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
