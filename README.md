@@ -39,15 +39,6 @@ I graduated with a Masters of Science in Cybersecurity from Robert Morris Univer
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
-<h3 align="left">Medium Blog Posts</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=cyberjab&theme=nightowl" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <h2 align="left">Current Tech Stack 🛠️:</h2>
 
