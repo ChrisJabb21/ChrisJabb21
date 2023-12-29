@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on
   - Networking with other technology, IT, and cybersecurity professionals when I can
-  - Obtaining my Security Plus certification,
+  - Transitioning as a Professor at Robert Morris University
   - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises 
 - 🌱📚 I’m currently learning about...
@@ -26,6 +26,7 @@ I am an aspiring Cybersecurity professional with experience as a Full Stack Web 
 
 I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
+Industry-recognized certifications held: CompTIA Security Plus 
 
 ## 📬 Reach out to me at..
 - <a href="https://www.linkedin.com/in/christopher-jabbour-01a43364/">LinkedIn</a>
