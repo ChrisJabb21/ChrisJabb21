@@ -11,7 +11,8 @@
   - Threat hunting
   - Cybersecurity and IT automation uses with Python
   - The security testing and assessment domain of cybersecurity
-  - Digital Forensics and Incident Response 
+  - Digital Forensics and Incident Response
+  - Application and Software Security
 - ⚡ In my free time, I...
   - Learn and practice guitar,
   - Learn spoken languages (Currently learning Spanish and Arabic),
