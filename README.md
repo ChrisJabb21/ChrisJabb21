@@ -16,14 +16,14 @@
 - ⚡ In my free time, I...
   - Learn and practice guitar,
   - Learn spoken languages (Currently learning Spanish and Arabic),
-  - Look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace, 
+  - Look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace.
   - Learn something new each day. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: As a kid I was a master of the hide and seek game. I can also play the master of puppets intro riff on guitar 🎸🎼🎼.
+- ⚡ Fun fact: As a kid I was a master of hide and seek. I can also play the master of puppets intro riff on guitar 🎸🎼🎼.
 
 
 ## About Me
-I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to loves to learn and teach as I grow from experience to transition and work my way into a role more focused in the cybersecurity and IT Support domain in the future. 
+I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to loves to learn and teach as I grow from experience to transition and work my way as a professor and mentor and into a role more focused in the cybersecurity, Application Security, and IT Support domains in the future.  
 
 I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
