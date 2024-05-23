@@ -1,18 +1,16 @@
-### Hi there 👋 my name is..
+### Hi there 👋 and marhaba, my name is..
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
 - 🔭 I’m currently working on
-  - Networking with other technology, IT, and cybersecurity professionals when I can
-  - Transitioning as a Professor at Robert Morris University
+  - Growing my professional and social network with other technology, IT, and cybersecurity professionals.
+  - Working as a Professor at Robert Morris University
   - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises 
 - 🌱📚 I’m currently learning about...
-  - Malware analysis
-  - Threat hunting
-  - Cybersecurity and IT automation uses with Python
-  - The security testing and assessment domain of cybersecurity
-  - Digital Forensics and Incident Response
   - Application and Software Security
+  - Malware Analysis
+  - Threat hunting 
+  - Pentration Testing
 - ⚡ In my free time, I...
   - Learn and practice guitar,
   - Learn spoken languages (Currently learning Spanish and Arabic),
