@@ -3,14 +3,15 @@
 
 - 🔭 I’m currently working on
   - Growing my professional and social network with other technology, IT, and cybersecurity professionals.
-  - Working as a Professor at Robert Morris University
+  - Working as a Professor at Robert Morris University and working towards my PhD.
   - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises 
 - 🌱📚 I’m currently learning about...
   - Application and Software Security
   - Malware Analysis
   - Threat hunting 
-  - Pentration Testing
+  - Penetration Testing (focus on Web Applications)
+  - The implications of AI in web development and all other industries 
 - ⚡ In my free time, I...
   - Learn and practice guitar,
   - Learn spoken languages (Currently learning Spanish and Arabic),
