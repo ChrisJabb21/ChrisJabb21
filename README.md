@@ -1,16 +1,17 @@
-### Hi there 👋 and marhaba, my name is..
+### Hi there 👋, my name is..
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
 - 🔭 I’m currently working on
   - Growing my professional and social network with other technology, IT, and cybersecurity professionals.
   - Working as a Professor at Robert Morris University and working towards my PhD.
   - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
+  - Job searching and applying to get back into the IT field (open to relocation, internships and apprecenticeships).
   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises 
 - 🌱📚 I’m currently learning about...
   - Application and Software Security
   - Malware Analysis
   - Threat hunting 
-  - Penetration Testing (focus on Web Applications)
+  - Penetration Testing and Security Assessment Testing
   - The implications of AI in web development and all other industries 
 - ⚡ In my free time, I...
   - Learn and practice guitar,
@@ -22,7 +23,7 @@
 
 
 ## About Me
-I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to loves to learn and teach as I grow from experience to transition and work my way as a professor and mentor and into a role more focused in the cybersecurity, Application Security, and IT Support domains in the future.  
+I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to loves to learn and teach as I grow from experience to transition and work my way as a professor and mentor and into a role more focused in the cybersecurity, Application Security, and IT Support domains in the future by using my people skills to handle challenges and help get everyone on my team and who I assist closer to resolving technical issues.  
 
 I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
