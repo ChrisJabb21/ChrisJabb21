@@ -2,10 +2,10 @@
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
 - 🔭 I’m currently working on
-  - Growing my professional and social network with other technology, IT, and cybersecurity professionals.
+  - Growing my professional network with other technology, IT, and cybersecurity professionals.
   - Working as a Professor at Robert Morris University and working towards my PhD.
   - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
-  - Job searching and applying to get back into the IT field (open to relocation, internships and apprecenticeships).
+  - Passive Job searching and applying to get back into the IT field after pursuing my PhD. (open to relocation, internships and apprecenticeships).
   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises 
 - 🌱📚 I’m currently learning about...
   - Application and Software Security
