@@ -23,7 +23,7 @@
 
 
 ## About Me
-I am an aspiring Cybersecurity professional with experience as a Full Stack Web Developer from Pittsburgh, PA who is looking to loves to learn and teach as I grow from experience to transition and work my way as a professor and mentor and into a role more focused in the cybersecurity, Application Security, and IT Support domains in the future by using my people skills to handle challenges and help get everyone on my team and who I assist closer to resolving technical issues.  
+I am an aspiring, creative-brained, Cybersecurity enthusiast ans professional with experience as a Full Stack Web Developer from Pittsburgh, PA who loves to learn and teach as I grow from experience to transition and work my way as a professor and mentor and into a role more focused in Web Design, Application Security domains in the future by using my people skills to handle challenges and help get everyone on my team and who I assist closer to resolving technical issues.  
 
 I graduated with a Masters of Science in Cybersecurity from Robert Morris Univeristy in Pittsburgh and a BA in Liberal Arts (concentration: Bioinformatics) with a minor in Computer Science from Saint Vincent College.  
 
