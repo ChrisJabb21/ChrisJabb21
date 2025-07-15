@@ -14,13 +14,14 @@
   - Penetration Testing and Security Assessment Testing
   - The implications of AI in web development and all other industries 
 - ⚡ In my free time, I...
-  - Learn and practice guitar,
-  - Learn spoken languages (Currently learning Spanish and Arabic),
+  - Learn and practice guitar
+  - Learn Woodworking
+  - Volunteer work (previous work done: Top Secret Colonials of RMU, Tekko Con in Pittsburgh, HackPgh)
+  - Learn spoken languages (Currently learning French, Spanish, and Arabic),
   - Look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace.
   - Learn something new each day. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: As a kid I was a master of hide and seek. I can also play the master of puppets intro riff on guitar 🎸🎼🎼.
-
 
 ## About Me
 I am an aspiring, creative-brained, Cybersecurity enthusiast ans professional with experience as a Full Stack Web Developer from Pittsburgh, PA who loves to learn and teach as I grow from experience to transition and work my way as a professor and mentor and into a role more focused in Web Design, Application Security domains in the future by using my people skills to handle challenges and help get everyone on my team and who I assist closer to resolving technical issues.  
