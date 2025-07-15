@@ -16,7 +16,7 @@
 - ⚡ In my free time, I...
   - Learn and practice guitar
   - Learn Woodworking
-  - Volunteer work (previous work done: Top Secret Colonials of RMU, Tekko Con in Pittsburgh, HackPgh)
+  - Do volunteer work (previous work done: Top Secret Colonials of RMU, Tekko Con in Pittsburgh, HackPgh)
   - Learn spoken languages (Currently learning French, Spanish, and Arabic),
   - Look into the latest happenings, patterns, and news of cyberattacks and threats in cyberspace.
   - Learn something new each day. 
