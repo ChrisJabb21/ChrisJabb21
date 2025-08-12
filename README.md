@@ -5,7 +5,7 @@
   - Growing my professional network with other technology, IT, and cybersecurity professionals.
   - Working as a Professor at Robert Morris University and working towards my PhD.
   - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
-  - Passive Job searching and applying to get back into the IT field after pursuing my PhD. (open to relocation, internships and apprecenticeships).
+  - Passive Job searching and applying to get back into the IT field while teaching after pursuing my PhD. (open to relocation, full-time salaried positions, internships and apprecenticeships).
   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises 
 - 🌱📚 I’m currently learning about...
   - Application and Software Security
