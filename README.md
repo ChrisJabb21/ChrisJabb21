@@ -4,10 +4,10 @@
 
 - #### 🔭 I’m currently working on:
   - Helping redesign and improve the **HackPGH website** with a focus on usability and design.
-    - Collaberative teamwork with another senior developer, the board, and designers of the makerspace.
+    - Collaberative teamwork with another senior developer, the board, president, and designers of the makerspace.
     - Worked with Figma tool wireframes for implementation.
     - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework   
-  - Volunteering with **Tekko 2025** (Registration Department) and supporting local creative/tech communities.  
+  - Volunteering with **Tekko 2025** (Registration Department) and supporting local creative and cultural communities.  
   - Teaching undergraduate and graduate college courses at **Robert Morris University**:  
     - CYMS6400: *Software & Application Security*  
     - CYBS2010: *Computing Principles and Practices*
