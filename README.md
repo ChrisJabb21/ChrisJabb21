@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is..
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
-- 🔭 I’m currently working on:
+- #### 🔭 I’m currently working on:
   - Helping redesign and improve the **HackPGH website** with a focus on usability and design.
     - Collaberative teamwork with another senior developer, the board, and designers of the makerspace.
     - Worked with Figma tool wireframes for implementation.
@@ -14,12 +14,12 @@
     - INFS2150: *Introduction to Web Development*
     - INFS3220: *Systems Analysis and Design*   
   - Pursuing my PhD in Information Systems & Communications (ISC) at RMU.  
-  - Expanding my professional network with creative arts, technology, IT, web development and cybersecurity professionals.  
+  - Expanding my professional network with creatives, technology, IT, web development and cybersecurity professionals.  
   - Passive job searching and applying for opportunities to return to the technology field while teaching (open to relocation, hybrid work, full-time salaried positions, internships, and apprenticeships).  
   - Upskilling through platforms like Scrimba, Udemy, TryHackMe by attempting and completing challenges, projects, hands-on walkthroughs, and capture-the-flag exercises.  
   - Developing creative side projects in **game development** and interactive web apps.  
 
-- 🌱📚 I’m currently learning about:
+- #### 🌱📚 I’m currently learning about:
   - Application and Software Security
   - Malware Analysis
   - Threat Hunting
@@ -28,7 +28,7 @@
   - The implications of AI in Web Development, Security, and other industries
   - Unity, Godot, PhaserJS, and JavaScript game-dev workflows
 
-- ⚡ In my free time, I:
+- #### ⚡ In my free time, I:
   - Play and practice guitar 🎸
   - Dabble with woodworking at HackPGH
   - Work on creative writing (love to write)
