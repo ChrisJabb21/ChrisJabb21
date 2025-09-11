@@ -31,12 +31,12 @@
 
 - #### ⚡ In my free time, I:
   - Play and practice guitar 🎸
-  - Dabble with woodworking at HackPGH
+  - Dabble with events, volunteer work, making, programming, electronics, and woodworking at HackPGH
   - Work on creative writing (love to write)
   - Read Comics
   - Learn about the human body and psychology  
   - Volunteer at conventions and makerspaces (Tekko, HackPGH, Top Secret Colonials of RMU)  
-  - Study and Learn spoken languages (currently French, Spanish, and Arabic,)
+  - Study and Learn spoken languages (currently French, Spanish, German, and Arabic)
   - Learn everything about video games.
     - Game Design
     - Project Management     
