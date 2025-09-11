@@ -56,7 +56,7 @@ I graduated with:
 - 🎓 M.S. in Cybersecurity – Robert Morris University  
 - 🎓 B.A. in Liberal Arts (Bioinformatics concentration, Computer Science minor) – Saint Vincent College  
 
-I also hold **CompTIA Security+** certification.  
+I also hold currently hold the  **CompTIA Security+** certification among others from Udemy, TryHackMe, and Coursera.  
 
 My long-term goal is to keep blending teaching, mentorship, and hands-on building — moving toward roles focused on **Web Design, Application Security, and Game Development**.  
 
