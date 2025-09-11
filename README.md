@@ -25,6 +25,7 @@
   - Threat Hunting
   - DevSecOps 
   - Web Application Penetration Testing and Security Assessments
+  - Gamification and Gamified Learning
   - The implications of AI in Web Development, Security, and other industries
   - Unity, Godot, PhaserJS, and JavaScript game-dev workflows
 
