@@ -3,23 +3,25 @@
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
 - #### 🔭 I’m currently working on:
-  - Helping redesign and improve the HackPGH website with a focus on usability and design.
-    - Collaberative teamwork with another senior developer in charge of the redesign, the board, president, and designers of the makerspace.
-    - Worked with Figma tool wireframes for implementation.
-    - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework   
-  - Volunteering with Tekko 2025 (Registration Department) and supporting local creative and cultural communities.  
-  -  **Currently** Teaching undergraduate and graduate college courses at Robert Morris University:  
-    - CYMS6400: *Software & Application Security*
-    - CYBS4330: *Cyber Incident Response and Planning*
-    - CYBS2010: *Computing Principles and Practices*
-    - INFS3220: *Systems Analysis and Design*
-    - INFS2150: *Introduction to Web Development*
+  -  Teaching undergraduate and graduate college courses at Robert Morris University:  
+      - CYMS6400: *Software & Application Security*
+      - CYBS4330: *Cyber Incident Response and Planning*
+      - CYBS2010: *Computing Principles and Practices*
+      - INFS3220: *Systems Analysis and Design*
+      - INFS2150: *Introduction to Web Development*
    
   - Pursuing my PhD in Information Systems & Communications (ISC) at RMU.  
   - Expanding my professional network with creatives, technology, IT, web development and cybersecurity professionals.  
   - Passive job searching and applying for opportunities to return to the technology field while teaching (open to relocation, hybrid work, full-time salaried positions, internships, and apprenticeships).  
   - Upskilling through platforms like Scrimba, Udemy, TryHackMe by attempting and completing challenges, projects, hands-on walkthroughs, and capture-the-flag exercises.  
   - Developing creative side projects in **game development** and interactive web apps.  
+
+- #### What I have worked on:
+  - Volunteering with Tekko 2025 (Registration Department) and supporting local creative and cultural communities.
+  - Redesign and improve the HackPGH website with a focus on usability and design.
+    - Collaberative teamwork with another senior developer in charge of the redesign, the board, president, and designers of the makerspace.
+    - Worked with Figma tool wireframes for implementation.
+    - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework
 
 - #### 🌱📚 I’m currently learning about:
   - Application and Software Security
