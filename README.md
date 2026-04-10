@@ -10,10 +10,11 @@
   - Volunteering with Tekko 2025 (Registration Department) and supporting local creative and cultural communities.  
   -  **Currently** Teaching undergraduate and graduate college courses at Robert Morris University:  
     - CYMS6400: *Software & Application Security*
-    - CYBS4330: * Cyber Incident Response and Planning
+    - CYBS4330: *Cyber Incident Response and Planning*
     - CYBS2010: *Computing Principles and Practices*
+    - INFS3220: *Systems Analysis and Design*
     - INFS2150: *Introduction to Web Development*
-    - INFS3220: *Systems Analysis and Design*   
+   
   - Pursuing my PhD in Information Systems & Communications (ISC) at RMU.  
   - Expanding my professional network with creatives, technology, IT, web development and cybersecurity professionals.  
   - Passive job searching and applying for opportunities to return to the technology field while teaching (open to relocation, hybrid work, full-time salaried positions, internships, and apprenticeships).  
