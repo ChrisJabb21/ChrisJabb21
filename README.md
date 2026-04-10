@@ -3,13 +3,14 @@
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
 - #### 🔭 I’m currently working on:
-  - Helping redesign and improve the **HackPGH website** with a focus on usability and design.
+  - Helping redesign and improve the HackPGH website with a focus on usability and design.
     - Collaberative teamwork with another senior developer in charge of the redesign, the board, president, and designers of the makerspace.
     - Worked with Figma tool wireframes for implementation.
     - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework   
-  - Volunteering with **Tekko 2025** (Registration Department) and supporting local creative and cultural communities.  
-  - Teaching undergraduate and graduate college courses at **Robert Morris University**:  
-    - CYMS6400: *Software & Application Security*  
+  - Volunteering with Tekko 2025 (Registration Department) and supporting local creative and cultural communities.  
+  -  **Currently** Teaching undergraduate and graduate college courses at Robert Morris University:  
+    - CYMS6400: *Software & Application Security*
+    - CYBS4330: * Cyber Incident Response and Planning
     - CYBS2010: *Computing Principles and Practices*
     - INFS2150: *Introduction to Web Development*
     - INFS3220: *Systems Analysis and Design*   
@@ -21,12 +22,13 @@
 
 - #### 🌱📚 I’m currently learning about:
   - Application and Software Security
+  - Digital Forensics
   - Malware Analysis
   - Threat Hunting
   - DevSecOps 
   - Web Application Penetration Testing and Security Assessments
   - Gamification and Gamified Learning
-  - The implications of AI in Web Development, Security, and other industries
+  - The implications of AI in Web Development, HCI, AI literacy
   - Unity, Godot, PhaserJS, and JavaScript game-dev workflows
 
 - #### ⚡ In my free time, I:
