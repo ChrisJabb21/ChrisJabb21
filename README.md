@@ -18,8 +18,8 @@
 
 - #### What I have worked on:
   - Volunteering with Tekko 2025 (Registration Department) and supporting local creative and cultural communities.
-  - Redesign and improve the HackPGH website with a focus on usability and design.
-    - Collaberative teamwork with another senior developer in charge of the redesign, the board, president, and designers of the makerspace.
+  - Summer 2025 - voluntarily contributed to redesign and improve the HackPGH website with a focus on usability and design.
+    - Collaberative teamwork with another senior developer in charge of the redesign, the organization board, president, and visual graphic designer of the makerspace.
     - Worked with Figma tool wireframes for implementation.
     - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework
 
