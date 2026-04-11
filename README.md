@@ -5,7 +5,7 @@
 - #### 🔭 I’m currently working on:
   -  Teaching undergraduate and graduate college courses at Robert Morris University:  
       - CYMS6400: *Software & Application Security*
-      - CYBS4330: *Cyber Incident Response and Planning*
+      - CYBS4340: *Cyber Incident Response and Planning*
       - CYBS2010: *Computing Principles and Practices*
       - INFS3220: *Systems Analysis and Design*
       - INFS2150: *Introduction to Web Development*
