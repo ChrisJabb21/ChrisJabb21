@@ -65,7 +65,7 @@ I also hold currently hold the **CompTIA Security+** certification among others 
 
 I’m in the top 4% globally on TryHackMe, which reflects sustained hands-on completion and note-taking skills of security labs across networking, Linux, web, and application security fundamentals. Some of the labs I completed can be found in my Medium Blog Account
 
-My long-term goal is to keep blending teaching, mentorship, and hands-on building. Furthermore, moving toward roles focused on **Web Design, Application Security, and Game Development**.  
+My long-term goal is to keep blending teaching, mentorship, and hands-on building. Furthermore, moving toward roles focused on Web Design, Application Security, and Game Development.  
 
 ---
 
