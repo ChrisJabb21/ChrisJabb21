@@ -55,7 +55,7 @@
 
 ## About Me
 I am a creative-brained cybersecurity enthusiast and educator from Pittsburgh, PA.  
-I balance teaching, PhD research, web development, and volunteer work, while exploring intersections of **cybersecurity, application security, and user-experience centered design**.  
+I balance teaching, PhD research, web development, and volunteer work, while exploring intersections of cybersecurity, application security, and user-experience centered design.  
 
 I graduated with:
 - 🎓 M.S. in Cybersecurity – Robert Morris University  
