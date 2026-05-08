@@ -17,7 +17,7 @@
   - Developing creative side projects in game development and interactive web apps.  
 
 - #### What I have worked on:
-  - Volunteering with Tekko 2025 (Registration Department) and supporting local creative and cultural communities.
+  - Volunteering for Tekko 2025 (Registration Department) and supporting local creative and cultural communities.
   - Summer 2025 - voluntarily contributed to redesign and improve the HackPGH website with a focus on usability and design.
     - Collaberative teamwork with another senior developer in charge of the redesign, the organization board, president, and visual graphic designer of the makerspace.
     - Worked with Figma tool wireframes for implementation.
