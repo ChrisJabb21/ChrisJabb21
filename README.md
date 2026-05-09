@@ -22,7 +22,7 @@
 </div>
 
 
-- #### 🔭 I’m currently working on:
+- #### 🔭 I'm currently working on:
   -  Teaching undergraduate and graduate college courses at Robert Morris University:  
       - CYMS6400: *Software & Application Security*
       - CYBS4340: *Cyber Incident Response and Planning*
@@ -32,18 +32,19 @@
    
   - Pursuing my PhD in Information Systems & Communications (ISC) at RMU.  
   - Expanding my professional network with creatives, technology, IT, web development and cybersecurity professionals.  
-  - Passive job searching and applying for opportunities to return to the technology field while teaching (open to relocation, hybrid work, full-time salaried positions, internships, and apprenticeships).  
+  - Actively job searching and applying for opportunities to return to the technology field while teaching (open to relocation, hybrid work, full-time salaried positions, internships, and apprenticeships).
   - Upskilling through platforms like Scrimba, Udemy, TryHackMe by attempting and completing challenges, projects, hands-on walkthroughs, and capture-the-flag exercises.  
   - Developing creative side projects in game development and interactive web apps.  
 
 - #### What I have worked on:
-  - Volunteering for Tekko 2025 (Registration Department) and supporting local creative and cultural communities.
-  - Summer 2025 - voluntarily contributed to redesign and improve the HackPGH website with a focus on usability and design.
-    - Collaberative teamwork with another senior developer in charge of the redesign, the organization board, president, and visual graphic designer of the makerspace.
+  - Volunteering for Tekko 2026 and supporting local creative and cultural communities.
+  - 2025 - Voluntarily contributed to redesign and improve the HackPGH website with a focus on usability and design.
+    - Collaborative teamwork with another senior developer in charge of the redesign, the organization board, president, and visual graphic designer of the makerspace.
     - Worked with Figma tool wireframes for implementation.
     - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework
+    - [View HackPGH Website](https://hackpgh.org)
 
-- #### 🌱📚 I’m currently learning about:
+- #### 🌱📚 I'm currently learning about:
   - Application and Software Security
   - Digital Forensics
   - Malware Analysis
@@ -81,31 +82,33 @@ I graduated with:
 - 🎓 M.S. in Cybersecurity – Robert Morris University  
 - 🎓 B.A. in Liberal Arts (Bioinformatics concentration, Computer Science minor) – Saint Vincent College  
 
-I also hold currently hold the **CompTIA Security+** certification among others from Udemy, TryHackMe, and Coursera. 
+I also hold the **CompTIA Security+** certification among others from Udemy, TryHackMe, and Coursera. 
 
-I’m in the top 2% globally on TryHackMe, which reflects sustained hands-on completion and note-taking skills of security labs across networking, Linux, web, and application security fundamentals. Some of the labs I completed can be found in my Medium Blog Account
+I'm in the top 2% globally on TryHackMe, which reflects sustained hands-on completion and note-taking skills of security labs across networking, Linux, web, and application security fundamentals. This demonstrates my commitment to continuous learning and practical cybersecurity expertise.
 
-My long-term goal is to secure a full-time position as I keep blending teaching, mentorship, and hands-on building. Furthermore, moving toward roles focused on Web Design, Application Security, and Game Development.  
-
----
-
-## 📬 Reach out to me at:
-- <a href="https://www.linkedin.com/in/christopher-jabbour-01a43364/">LinkedIn</a>  
+My long-term goal is to secure a full-time position as I keep blending teaching, mentorship, and hands-on building. I'm moving toward roles focused on Web Design, Application Security, and Game Development that leverage both my technical depth and creative vision.
 
 ---
 
-## Showcases
-- <a href="https://medium.com/@cyberjab">Medium Blog</a>  
-- <a href="https://tryhackme.com/p/ChrisJabb21">TryHackMe</a> (Cybersecurity Training)  
-- <a href="https://play.picoctf.org/users/ChrisJabb21">PicoCTF</a> (Challenges & Training)  
-- <a href="https://codepen.io/ChrisJabb21/pens/showcase">Codepen Projects</a>  
-- <a href="https://chrisjabb21.github.io/react-portfolio-api/">Web Development Portfolio</a>  
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+## 📬 Connect with Me:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-jabbour-01a43364/)
+- 💻 [GitHub](https://github.com/ChrisJabb21)
+- 📧 Email: Available upon request
 
 ---
 
-<h2 align="left">Current Tech Stack 🛠️:</h2>
+## 📚 Showcases & Presence
+- 📝 [Medium Blog](https://medium.com/@cyberjab) – Security & tech insights  
+- 🎯 [TryHackMe](https://tryhackme.com/p/ChrisJabb21) – Cybersecurity Training (Top 2%)
+- 🏁 [PicoCTF](https://play.picoctf.org/users/ChrisJabb21) – CTF Challenges & Training  
+- 🎨 [Codepen Projects](https://codepen.io/ChrisJabb21/pens/showcase) – Frontend & Creative Work  
+- 🌐 [Web Development Portfolio](https://chrisjabb21.github.io/react-portfolio-api/) – Full Stack Projects
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+---
+
+## 🛠️ Current Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -118,7 +121,18 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ---
 
-<h2 align="left">Technologies worked with 👨🏻‍💻:</h2>
+## 🌐 Modern Web Development Stack:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+</div>
+
+---
+
+## 👨🏻‍💻 Technologies Worked With:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
@@ -137,3 +151,7 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
 </div>
+
+---
+
+**Last Updated:** May 2026
