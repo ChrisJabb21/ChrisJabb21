@@ -9,7 +9,7 @@
   - Based in Pittsburgh, PA, USA
     
 
-- #### 🔭 I'm currently working on:
+- ### 🔭 I'm currently working on:
   -  Teaching undergraduate and graduate college courses at Robert Morris University:  
       - CYMS6400: *Software & Application Security*
       - CYBS4340: *Cyber Incident Response and Planning*
