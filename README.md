@@ -2,25 +2,12 @@
 ### Hi there 👋, my name is..
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
-### Here is my card 📇
-<div align="center" width="auto">
-  <table style="width:420px; background:#E6F9AF; color:#0D0630; border:4px solid #8BBEB2; border-radius:10px; padding:20px; font-family:Arial,sans-serif;">
-    <tr>
-      <td align="center" style="padding:10px;">
-        <p style="margin:8px 0; font-size:14px;">Full Stack Web Developer, Educator, &amp; AppSec Specialist</p>
-        <h4 style="margin:0; color:#18314F;">Pittsburgh, PA, USA</h4>
-        <br/>
-        <a href="https://www.linkedin.com/in/christopher-jabbour-01a43364/" target="_blank">
-          <img src="linkedin.png" width="30" style="margin:0 5px;" alt="LinkedIn"/>
-        </a>
-        <a href="https://github.com/ChrisJabb21/ChrisJabb21" target="_blank">
-          <img src="github.png" width="30" style="margin:0 5px;" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
+### ❓ Who am I:
+  - A Full Stack Web Developer, Educator, &amp; Application Security Specialist 
+ 
+### 🗺️ Where am I
+  - Based in Pittsburgh, PA, USA
+    
 
 - #### 🔭 I'm currently working on:
   -  Teaching undergraduate and graduate college courses at Robert Morris University:  
@@ -37,12 +24,12 @@
   - Developing creative side projects in game development and interactive web apps.  
 
 - #### What I have worked on:
-  - Volunteering for Tekko 2026 and supporting local creative and cultural communities.
-  - 2025 - Voluntarily contributed to redesign and improve the HackPGH website with a focus on usability and design.
-    - Collaborative teamwork with another senior developer in charge of the redesign, the organization board, president, and visual graphic designer of the makerspace.
-    - Worked with Figma tool wireframes for implementation.
-    - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework
-    - [View HackPGH Website](https://hackpgh.org)
+  - Volunteering for Tekko Convention (2025) and supporting local creative and cultural communities.
+  -  In Summer 2025, Voluntarily contributed to redesign and improve the HackPGH website with a focus on usability and design.
+      - Collaborative teamwork with another senior developer in charge of the redesign, the organization board, president, and visual graphic designer of the makerspace.
+      - Worked with Figma tool wireframes for implementation.
+      - Tech stack: Svelte, SvelteKit, JavaScript, and Tailwind CSS framework
+      - [View HackPGH Website](https://hackpgh.org)
 
 - #### 🌱📚 I'm currently learning about:
   - Application and Software Security
@@ -67,7 +54,7 @@
     - Game Design
     - Project Management     
   - Follow the latest news and patterns in cyberattacks and threats to software  
-  - Explore something new every day  
+  - Learn something new 
 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: As a kid I was a master of hide and seek. These days, I can shred the intro riff to *Master of Puppets*.  
@@ -126,7 +113,7 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 </div>
 
