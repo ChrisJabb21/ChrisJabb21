@@ -2,6 +2,26 @@
 ### Hi there 👋, my name is..
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
+### Here is my card 📇
+<div align="center" width="auto">
+  <table style="width:420px; background:#E6F9AF; color:#0D0630; border:4px solid #8BBEB2; border-radius:10px; padding:20px; font-family:Arial,sans-serif;">
+    <tr>
+      <td align="center" style="padding:10px;">
+        <p style="margin:8px 0; font-size:14px;">Full Stack Web Developer, Educator, &amp; AppSec Specialist</p>
+        <h4 style="margin:0; color:#18314F;">Pittsburgh, PA, USA</h4>
+        <br/>
+        <a href="https://www.linkedin.com/in/christopher-jabbour-01a43364/" target="_blank">
+          <img src="linkedin.png" width="30" style="margin:0 5px;" alt="LinkedIn"/>
+        </a>
+        <a href="https://github.com/ChrisJabb21/ChrisJabb21" target="_blank">
+          <img src="github.png" width="30" style="margin:0 5px;" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 - #### 🔭 I’m currently working on:
   -  Teaching undergraduate and graduate college courses at Robert Morris University:  
       - CYMS6400: *Software & Application Security*
