@@ -89,55 +89,56 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 - 🎯 [TryHackMe](https://tryhackme.com/p/ChrisJabb21) – Cybersecurity Training (Top 2%)
 - 🏁 [PicoCTF](https://play.picoctf.org/users/ChrisJabb21) – CTF Challenges & Training  
 - 🎨 [Codepen Projects](https://codepen.io/ChrisJabb21/pens/showcase) – Frontend & Creative Work  
-- 🌐 [Web Development Portfolio](https://chrisjabb21.github.io/react-portfolio-api/) – Full Stack Projects
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjabb21&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ---
 
-## 🛠️ Current Tech Stack:
+## 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
-</div>
+### Languages & Core Technologies
 
----
+![HTML5](https://img.shields.io/badge/HTML5-Comfortable-orange?style=for-the-badge&logo=html5)
 
-## 🌐 Modern Web Development Stack:
+![CSS3](https://img.shields.io/badge/CSS3-Comfortable-blue?style=for-the-badge&logo=css3)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-Developing-yellow?style=for-the-badge&logo=javascript)
+
+![Python](https://img.shields.io/badge/Python-Developing-blue?style=for-the-badge&logo=python)
+
+![SQL](https://img.shields.io/badge/SQL-Working_Knowledge-lightgrey?style=for-the-badge&logo=mysql)
 
 ---
 
-## 👨🏻‍💻 Technologies Worked With:
+### Frontend Development
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-</div>
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-Comfortable-success?style=for-the-badge)
+
+![Flexbox](https://img.shields.io/badge/Flexbox-Comfortable-success?style=for-the-badge)
+
+![DOM Manipulation](https://img.shields.io/badge/DOM-Manipulation-blue?style=for-the-badge)
+
+---
+
+### Cybersecurity & AppSec
+
+![OWASP](https://img.shields.io/badge/OWASP-Awareness-important?style=for-the-badge)
+
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-Strong-success?style=for-the-badge)
+
+![Web Security](https://img.shields.io/badge/Web_Security-Strong-success?style=for-the-badge)
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme)
+
+---
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-Comfortable-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-Comfortable-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-Daily_Use-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Linux](https://img.shields.io/badge/Linux-Working_Knowledge-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
