@@ -98,13 +98,15 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ![CSS3](https://img.shields.io/badge/CSS3-Comfortable-blue?style=for-the-badge&logo=css3)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Developing-yellow?style=for-the-badge&logo=javascript)
-
 ![Java](https://img.shields.io/badge/Java-Working_Knowledge-ED8B00?style=for-the-badge&logo=openjdk)
+
+![SQL](https://img.shields.io/badge/SQL-Working_Knowledge-lightgrey?style=for-the-badge&logo=mysql)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Developing-yellow?style=for-the-badge&logo=javascript)
 
 ![Python](https://img.shields.io/badge/Python-Developing-blue?style=for-the-badge&logo=python)
 
-![SQL](https://img.shields.io/badge/SQL-Working_Knowledge-lightgrey?style=for-the-badge&logo=mysql)
+
 
 ---
 
