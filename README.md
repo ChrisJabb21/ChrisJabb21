@@ -51,9 +51,8 @@
   - Follow the latest news and patterns in cyberattacks and threats to software  
   - Learn something new 
 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: As a kid I was a master of hide and seek. These days, I can shred the intro riff to *Master of Puppets*.  
-
+- 😄 Pronouns: He/Him
+  
 ---
 
 ## About Me
