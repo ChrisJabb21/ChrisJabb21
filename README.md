@@ -17,8 +17,6 @@
       - INFS2150: *Introduction to Web Development*
    
   - Pursuing my PhD in Information Systems & Communications (ISC) at RMU.  
-  - Expanding my professional network with creatives, technology, IT, web development and cybersecurity professionals.  
-  - Actively job searching and applying for opportunities to return to the technology field while teaching (open to relocation, hybrid work, full-time salaried positions, internships, and apprenticeships).
   - Upskilling through platforms like Scrimba, Udemy, TryHackMe by attempting and completing challenges, projects, hands-on walkthroughs, and capture-the-flag exercises.  
   - Developing creative side projects in game development and interactive web apps.  
 
@@ -44,9 +42,7 @@
 - #### ⚡ In my free time, I:
   - Play and practice guitar 🎸
   - Dabble with events, volunteer work, making, programming, electronics, and woodworking at HackPGH
-  - Work on creative writing (love to write)
   - Read Comics
-  - Learn about the human body and psychology  
   - Volunteer at conventions and makerspaces (Tekko, HackPGH, Top Secret Colonials of RMU)  
   - Study and Learn spoken languages (currently French, Spanish, German, and Arabic)
   - Learn everything about video games.
