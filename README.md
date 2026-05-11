@@ -2,12 +2,6 @@
 ### Hi there 👋, my name is..
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
-### ❓ Who am I:
-  - A Full Stack Web Developer, Educator, &amp; Application Security Specialist
-     
-### 🗺️ Where am I
-  - Based in Pittsburgh, PA, USA
-
 - ### 🔭 I'm currently working on:
   -  Teaching undergraduate and graduate college courses at Robert Morris University:  
       - CYMS6400: *Software & Application Security*
