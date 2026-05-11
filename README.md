@@ -3,11 +3,10 @@
 ![Chris Jabbour](https://raw.githubusercontent.com/ChrisJabb21/ChrisJabb21/master/earthbanner.png)
 
 ### ❓ Who am I:
-  - A Full Stack Web Developer, Educator, &amp; Application Security Specialist 
- 
+  - A Full Stack Web Developer, Educator, &amp; Application Security Specialist
+     
 ### 🗺️ Where am I
   - Based in Pittsburgh, PA, USA
-    
 
 - ### 🔭 I'm currently working on:
   -  Teaching undergraduate and graduate college courses at Robert Morris University:  
@@ -65,7 +64,6 @@
 I am a creative-brained cybersecurity enthusiast and educator from Pittsburgh, PA.  
 I balance teaching, PhD research, web development, and volunteer work, while exploring intersections of cybersecurity, application security, and user-experience centered design.  
 
-I graduated with:
 - 🎓 M.S. in Cybersecurity – Robert Morris University  
 - 🎓 B.A. in Liberal Arts (Bioinformatics concentration, Computer Science minor) – Saint Vincent College  
 
@@ -101,6 +99,8 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 ![CSS3](https://img.shields.io/badge/CSS3-Comfortable-blue?style=for-the-badge&logo=css3)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Developing-yellow?style=for-the-badge&logo=javascript)
+
+![Java](https://img.shields.io/badge/Java-Working_Knowledge-ED8B00?style=for-the-badge&logo=openjdk)
 
 ![Python](https://img.shields.io/badge/Python-Developing-blue?style=for-the-badge&logo=python)
 
