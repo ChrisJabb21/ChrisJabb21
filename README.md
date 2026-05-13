@@ -105,7 +105,7 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ![Flexbox](https://img.shields.io/badge/Flexbox-Comfortable-success?style=for-the-badge)
 
-![DOM Manipulation](https://img.shields.io/badge/DOM-Manipulation-blue?style=for-the-badge)
+![DOM Manipulation](https://img.shields.io/badge/DOM%20Manipulation-Developing-blue?style=for-the-badge)
 
 ---
 
