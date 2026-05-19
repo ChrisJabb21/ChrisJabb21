@@ -107,7 +107,28 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ![DOM Manipulation](https://img.shields.io/badge/DOM%20Manipulation-Developing-blue?style=for-the-badge)
 
+![Svelte](https://img.shields.io/badge/Svelte-Learning-lightgrey?style=for-the-badge)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Developing-blue?style=for-the-badge)
+
+![React.js](https://img.shields.io/badge/React.js-Developing-blue?style=for-the-badge)
+
 ---
+
+### Backend Development
+
+![Express.js](https://img.shields.io/badge/Express.js-Project_Experience-success?style=for-the-badge)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Project_Experience-success?style=for-the-badge)
+
+![Node.js](https://img.shields.io/badge/Node.js-Project_Experience-success?style=for-the-badge)
+
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-Developing-blue?style=for-the-badge)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Developing-blue?style=for-the-badge)
+
+---
+
 
 ### Cybersecurity & AppSec
 
