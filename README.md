@@ -53,6 +53,7 @@
 I am a creative-brained cybersecurity enthusiast and educator from Pittsburgh, PA.  
 I balance teaching, PhD research, web development, and volunteer work, while exploring intersections of cybersecurity, application security, and user-experience centered design.  
 
+- 🎓 Ph.D. in Information Systems and Communication - Robert Morris University (***in progress***)
 - 🎓 M.S. in Cybersecurity – Robert Morris University  
 - 🎓 B.A. in Liberal Arts (Bioinformatics concentration, Computer Science minor) – Saint Vincent College  
 
