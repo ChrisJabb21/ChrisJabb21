@@ -126,7 +126,7 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-Developing-blue?style=for-the-badge)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Developing-blue?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Project_Experience-success?style=for-the-badge)
 
 ---
 
