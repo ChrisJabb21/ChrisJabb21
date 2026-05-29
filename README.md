@@ -74,7 +74,8 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ## 📚 Showcases & Presence
 - 📝 [Medium Blog](https://medium.com/@cyberjab) – Security & tech insights  
-- 🎯 [TryHackMe](https://tryhackme.com/p/ChrisJabb21) – Cybersecurity Training (Top 2%)
+- 🎯 [TryHackMe](https://tryhackme.com/p/ChrisJabb21) – Cybersecurity Training (Top 1%)
+- 👨‍💻 [HackTheBox](https://profile.hackthebox.com/profile/019e7545-9050-72b0-80af-62d96c7ca76a) - Hands-on Cybersecurity and Software Security Upskilling
 - 🏁 [PicoCTF](https://play.picoctf.org/users/ChrisJabb21) – CTF Challenges & Training  
 - 🎨 [Codepen Projects](https://codepen.io/ChrisJabb21/pens/showcase) – Frontend & Creative Work  
 
