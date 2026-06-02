@@ -59,7 +59,7 @@ I balance teaching, PhD research, web development, and volunteer work, while exp
 
 I also hold the **CompTIA Security+** certification among others from Udemy, TryHackMe, and Coursera. 
 
-I'm in the top 2% globally on TryHackMe, which reflects sustained hands-on completion and note-taking skills of security labs across networking, Linux, web, and application security fundamentals. This demonstrates my commitment to continuous learning and practical cybersecurity expertise.
+I'm in the top 1% globally on TryHackMe, which reflects sustained hands-on completion and note-taking skills of security labs across networking, Linux, web, and application security fundamentals. This demonstrates my commitment to continuous learning and practical cybersecurity expertise.
 
 My long-term goal is to secure a full-time position as I keep blending teaching, mentorship, and hands-on building. I'm moving toward roles focused on Web Design, Application Security, and Game Development that leverage both my technical depth and creative vision.
 
@@ -156,4 +156,4 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ---
 
-**Last Updated:** May 2026
+**Last Updated:** June 2026
