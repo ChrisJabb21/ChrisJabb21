@@ -131,7 +131,6 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ---
 
-
 ### Cybersecurity & AppSec
 
 ![OWASP](https://img.shields.io/badge/OWASP-Awareness-important?style=for-the-badge)
@@ -143,6 +142,14 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme)
 
 ---
+
+### 🤖 AI & Emerging Technologies
+
+![AI](https://img.shields.io/badge/AI-Experienced-blue)
+![LLMs](https://img.shields.io/badge/LLMs-Learning-green)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-Practical-orange)
+![RAG](https://img.shields.io/badge/RAG-Concepts-purple)
+![AI%20Security](https://img.shields.io/badge/AI%20Security-Aware-red)
 
 ### Tools & Workflow
 
