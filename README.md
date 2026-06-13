@@ -145,8 +145,8 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ### 🤖 AI & Emerging Technologies
 
-![AI](https://img.shields.io/badge/AI-Experienced-blue)
-![LLMs](https://img.shields.io/badge/LLMs-Learning-green)
+![AI](https://img.shields.io/badge/AI-Practical-blue)
+![LLMs](https://img.shields.io/badge/LLMs-Practical-orange)
 ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-Practical-orange)
 ![RAG](https://img.shields.io/badge/RAG-Concepts-purple)
 ![AI%20Security](https://img.shields.io/badge/AI%20Security-Aware-red)
