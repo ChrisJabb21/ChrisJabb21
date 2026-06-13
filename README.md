@@ -135,9 +135,9 @@ My long-term goal is to secure a full-time position as I keep blending teaching,
 
 ![OWASP](https://img.shields.io/badge/OWASP-Awareness-important?style=for-the-badge)
 
-![Secure Coding](https://img.shields.io/badge/Secure_Coding-Strong-success?style=for-the-badge)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-Developing-success?style=for-the-badge)
 
-![Web Security](https://img.shields.io/badge/Web_Security-Strong-success?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web_Security-Developing-success?style=for-the-badge)
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme)
 
