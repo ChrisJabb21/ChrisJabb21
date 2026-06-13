@@ -57,7 +57,7 @@ I balance teaching, PhD research, web development, and volunteer work, while exp
 - 🎓 M.S. in Cybersecurity – Robert Morris University  
 - 🎓 B.A. in Liberal Arts (Bioinformatics concentration, Computer Science minor) – Saint Vincent College  
 
-I also hold the **CompTIA Security+** certification among others from Udemy, TryHackMe, and Coursera. 
+I hold and passed the **CompTIA Security+** certification. 
 
 I'm in the top 1% globally on TryHackMe, which reflects sustained hands-on completion and note-taking skills of security labs across networking, Linux, web, and application security fundamentals. This demonstrates my commitment to continuous learning and practical cybersecurity expertise.
 
